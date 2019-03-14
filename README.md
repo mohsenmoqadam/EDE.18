@@ -15,7 +15,7 @@ EDE prepare erlang.18 development tools. If you have old erlang project, maybe i
 - Create and test erlang project:
   ```
    cd SEPC
-   ./sepc my_project 1.0.0
+   ./sepc.sh my_project 1.0.0
    cd my_project
    make rel-dev
    make console-dev
